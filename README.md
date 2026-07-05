@@ -1,10 +1,10 @@
 <div align="center">
-  <h1 align="center">Hola, ¿Cómo estas?, soy Alex 👋</h1>
+  <h1 align="center">Hola, ¿Cómo estas?, soy Alex</h1>
   <div>
     <a href="mailto:alexpumari0@gmail.com">
       <img src="https://img.shields.io/badge/Correo-orange?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335&labelColor=ea4335" alt="Correo electrónico">
     </a>
-   <a href="https://www.linkedin.com/in/alex-pumari-diaz/" target="_blank">
+   <a href="https://www.linkedin.com/in/alex-pumari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=simpleicons&logoColor=white&color=0077b5&labelColor=0077b5" alt="LinkedIn">
    </a>
     <a href="http://alexpumaridev.com.ar/" target="_blank">
@@ -15,24 +15,26 @@
   <img src="https://raw.githubusercontent.com/AlexRubenPumari/AlexRubenPumari/master/cover.gif" />
 </div>
 
-## 👤 Sobre mi
-Soy Desarrollador Full Stack y Técnico en Análisis, Desarrollo y Programación de Aplicaciones, con experiencia en el desarrollo de aplicaciones web tanto en frontend como en backend. Mi interés por la programación comenzó en la secundaria y fue evolucionando de manera constante a lo largo del tiempo.
+## Sobre mi
+Soy Desarrollador Full Stack y Técnico en Análisis, Desarrollo y Programación de Aplicaciones, con experiencia en el desarrollo de aplicaciones web tanto en frontend como en backend.
 
-Inicié mi camino de forma autodidacta, explorando contenidos y tutoriales en plataformas como YouTube, y dando mis primeros pasos a través del desarrollo de videojuegos, lo que me permitió fortalecer la lógica, la resolución de problemas y el pensamiento analítico. Con el tiempo, la curiosidad por comprender cómo funcionan las aplicaciones por dentro me llevó a capacitarme de manera formal, consolidando así mi orientación hacia el desarrollo web y el trabajo full stack.
+Mi interés por la programación empezó en la secundaria y fue creciendo de forma natural con el tiempo.
 
-Hoy aplico esa misma curiosidad y constancia tanto en el aprendizaje continuo como en el trabajo en equipo, con el objetivo de mejorar la calidad de las soluciones que desarrollo, seguir creciendo como profesional y aportar valor en cada proyecto en el que participo.
+Empecé programando de manera autodidacta, mirando videos y tutoriales en YouTube. Al principio me enfoqué en el desarrollo de videojuegos, algo que despertó mi creatividad, me enseñó el valor del trabajo en equipo y definió mi forma de resolver problemas. Con el tiempo, y por la curiosidad de entender mejor cómo funcionan las aplicaciones por dentro, decidí formarme de manera formal, lo que terminó de definir mi camino hacia el desarrollo web y el perfil full stack.
+
+Hoy sigo manteniendo esa misma curiosidad, tanto para aprender cosas nuevas como para trabajar en equipo, siempre con la idea de mejorar las soluciones que desarrollo y seguir creciendo como profesional.
 
 <div>
   <ul>
-  <li>💡 Tecnologías favoritas — TypeScript, React, TailwindCSS</li>
-  <li>📧 Correo de contacto — <a href="mailto:alexpumari0@gmail.com">alexpumari0@gmail.com</a></li>
-  <li>🌐 Portafolio web — www.alexpumaridev.com.ar</li>
-  <li>📚 Canal de YouTube — ¡Suscribite a <a href="https://www.youtube.com/@dev-con-alex">Dev con Alex</a>!</li>
+  <li>Tecnologías favoritas — TypeScript, React, TailwindCSS</li>
+  <li>Correo de contacto — <a href="mailto:alexpumari0@gmail.com">alexpumari0@gmail.com</a></li>
+  <li>Portafolio web — www.alexpumaridev.com.ar</li>
+  <li>Canal de YouTube — ¡Suscribite a <a href="https://www.youtube.com/@alex-pumari">Dev con Alex</a>!</li>
   </ul>
 </div>
 <br>
 
-## 🛠️ Tecnologías que uso
+## Tecnologías que uso
 <div align="center">
   <table>
   <!-- FILA 1 -->
@@ -79,7 +81,7 @@ Hoy aplico esa misma curiosidad y constancia tanto en el aprendizaje continuo co
 </div>
 
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 <table>
   <tr>
     <td width="50%" align="center">
