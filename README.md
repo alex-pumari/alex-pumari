@@ -37,49 +37,77 @@ Hoy sigo manteniendo esa misma curiosidad, tanto para aprender cosas nuevas como
 ## Tecnologías que uso
 <div align="center">
   <table>
-  <!-- FILA 1 -->
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5" />
-      <br><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3" />
-      <br><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass" />
-      <br><sub><b>Sass</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="60" alt="TailwindCSS" />
-      <br><sub><b>Tailwind</b></sub>
-    </td>
-  </tr>
-
-  <!-- FILA 2 -->
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
-      <br><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" />
-      <br><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React" />
-      <br><sub><b>React</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/express/6B7280" width="60" alt="Express" />
-      <br><sub><b>Express</b></sub>
-    </td>
-  </tr>
-</table>
-
+    <!-- FILA 1 -->
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5" />
+        <br><sub><b>HTML5</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3" />
+        <br><sub><b>CSS3</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript" />
+        <br><sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" />
+        <br><sub><b>TypeScript</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" alt="PHP" />
+        <br><sub><b>PHP</b></sub>
+      </td>
+    </tr>
+    <!-- FILA 2 -->
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React" />
+        <br><sub><b>React</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="60" alt="Angular" />
+        <br><sub><b>Angular</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="60" alt="TailwindCSS" />
+        <br><sub><b>Tailwind</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" alt="Bootstrap" />
+        <br><sub><b>Bootstrap</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60" alt="Sass" />
+        <br><sub><b>Sass</b></sub>
+      </td>
+    </tr>
+    <!-- FILA 3 -->
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" alt="Next.js" />
+        <br><sub><b>Next</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.simpleicons.org/express/6B7280" width="60" alt="Express" />
+        <br><sub><b>Express</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60" alt="NestJS" />
+        <br><sub><b>Nest</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60" alt="Laravel" />
+        <br><sub><b>Laravel</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" alt="Docker" />
+        <br><sub><b>Docker</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ## Proyectos destacados
 <table>
