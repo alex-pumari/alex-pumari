@@ -16,17 +16,16 @@
 </div>
 
 ## Sobre mi
-Soy Desarrollador Full Stack y Técnico en Análisis, Desarrollo y Programación de Aplicaciones, con experiencia en el desarrollo de aplicaciones web tanto en frontend como en backend.
 
-Mi interés por la programación empezó en la secundaria y fue creciendo de forma natural con el tiempo.
+Soy Desarrollador Full Stack, en formación como Licenciado en Gestión Tecnológica
 
-Empecé programando de manera autodidacta, mirando videos y tutoriales en YouTube. Al principio me enfoqué en el desarrollo de videojuegos, algo que despertó mi creatividad, me enseñó el valor del trabajo en equipo y definió mi forma de resolver problemas. Con el tiempo, y por la curiosidad de entender mejor cómo funcionan las aplicaciones por dentro, decidí formarme de manera formal, lo que terminó de definir mi camino hacia el desarrollo web y el perfil full stack.
+Mi interés por la programación comenzó de forma autodidacta desarrollando videojuegos, una etapa que fortaleció mi creatividad, mi capacidad para resolver problemas y mi forma de trabajar en equipo. A partir de esa experiencia, comencé a explorar cómo se construyen las aplicaciones y a dar el salto hacia el desarrollo web.
 
-Hoy sigo manteniendo esa misma curiosidad, tanto para aprender cosas nuevas como para trabajar en equipo, siempre con la idea de mejorar las soluciones que desarrollo y seguir creciendo como profesional.
+Actualmente sigo aprendiendo y desarrollando soluciones digitales buscando entender las necesidades de cada negocio para crear herramientas eficientes, escalables y adaptadas a sus objetivos.
 
 <div>
   <ul>
-  <li>Tecnologías favoritas — TypeScript, React, TailwindCSS</li>
+  <li>Tecnologías favoritas — TypeScript, React, Tailwind</li>
   <li>Correo de contacto — <a href="mailto:alexpumari0@gmail.com">alexpumari0@gmail.com</a></li>
   <li>Portafolio web — www.alexpumaridev.com.ar</li>
   <li>Canal de YouTube — ¡Suscribite a <a href="https://www.youtube.com/@alex-pumari">Dev con Alex</a>!</li>
@@ -108,6 +107,7 @@ Hoy sigo manteniendo esa misma curiosidad, tanto para aprender cosas nuevas como
     </tr>
   </table>
 </div>
+<br>
 
 ## Proyectos destacados
 <table>
