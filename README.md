@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/AlexRubenPumari/AlexRubenPumari/master/cover.gif" />
 </div>
 
-## Sobre mi
+## ¿Quién soy?
 
 Soy Desarrollador Full Stack, en formación como Licenciado en Gestión Tecnológica
 
@@ -33,7 +33,7 @@ Actualmente sigo aprendiendo y desarrollando soluciones digitales buscando enten
 </div>
 <br>
 
-## Servicios
+## ¿Cómo puedo ayudarte?
 
 Desarrollo soluciones digitales adaptadas a los objetivos de cada organización:
 
@@ -46,7 +46,7 @@ Desarrollo soluciones digitales adaptadas a los objetivos de cada organización:
 
 <br>
 
-## Tecnologías que uso
+## ¿Qué herramientas uso?
 <div align="center">
   <table>
     <!-- FILA 1 -->
@@ -122,7 +122,7 @@ Desarrollo soluciones digitales adaptadas a los objetivos de cada organización:
 </div>
 <br>
 
-## Proyectos destacados
+## ¿Qué proyectos creé?
 <table>
   <tr>
     <td width="50%" align="center">
