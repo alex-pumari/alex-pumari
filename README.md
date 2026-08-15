@@ -33,6 +33,19 @@ Actualmente sigo aprendiendo y desarrollando soluciones digitales buscando enten
 </div>
 <br>
 
+## Servicios
+
+Desarrollo soluciones digitales adaptadas a los objetivos de cada organización:
+
+- Desarrollo de páginas web, landing pages y aplicaciones web.
+- Creación de sistemas de gestión, turnos y herramientas internas.
+- Automatización de procesos e integración de servicios mediante APIs y herramientas como n8n.
+- Conexión de formularios y flujos de trabajo con herramientas como Google Sheets, WhatsApp y otras plataformas.
+- Análisis y gestión de datos mediante bases de datos SQL.
+- Mantenimiento, mejoras y optimización de aplicaciones existentes.
+
+<br>
+
 ## Tecnologías que uso
 <div align="center">
   <table>
