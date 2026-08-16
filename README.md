@@ -2,13 +2,13 @@
   <h1 align="center">Hola, ¿Cómo estas?, soy Alex</h1>
   <div>
     <a href="mailto:alexpumari0@gmail.com">
-      <img src="https://img.shields.io/badge/Correo-orange?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335&labelColor=ea4335" alt="Correo electrónico">
+      <img src="https://img.shields.io/badge/Correo-orange?style=for-the-badge&logo=gmail&logoColor=white&color=E63946&labelColor=E63946" alt="Correo electrónico">
     </a>
    <a href="https://www.linkedin.com/in/alex-pumari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=simpleicons&logoColor=white&color=0077b5&labelColor=0077b5" alt="LinkedIn">
    </a>
     <a href="http://alexpumaridev.com.ar/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-azulvioleta?style=for-the-badge&logo=firefox-browser&logoColor=white&color=5a4fcf&labelColor=5a4fcf" alt="Portafolio Web">
+    <img src="https://img.shields.io/badge/Portafolio-azulvioleta?style=for-the-badge&logo=firefox-browser&logoColor=white&color=800020&labelColor=800020" alt="Portafolio Web">
    </a>
   </div>
   <br>
@@ -138,10 +138,10 @@ Desarrollo soluciones digitales adaptadas a los objetivos de cada organización:
       <p>Aplicación web para gestionar tareas desarrollada con React, Tailwind CSS, y Express.js. Implementa un sistema CRUD completo (Crear, Leer, Actualizar, Eliminar) para tareas, a través de una API RESTful.</p>
       <p>
         <a href="https://app-to-do-list-theta.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Probar-violet?style=for-the-badge&logo=rotaryinternational&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Probar">
+          <img src="https://img.shields.io/badge/Demo-violet?style=for-the-badge&logo=rotaryinternational&logoColor=white&color=E63946&labelColor=E63946" alt="Demo">
         </a>
         <a href="https://github.com/AlexRubenPumari/app-to-do-list" target="_blank">
-          <img src="https://img.shields.io/badge/Código-violet?style=for-the-badge&logo=github&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Código">
+          <img src="https://img.shields.io/badge/Código-violet?style=for-the-badge&logo=github&logoColor=white&color=4B5563&labelColor=4B5563" alt="Código">
         </a>
       </p>
     </td>
@@ -159,10 +159,10 @@ Desarrollo soluciones digitales adaptadas a los objetivos de cada organización:
       </p>
 <p>
   <a href="https://alexrubenpumari.github.io/react-product-calculator/" target="_blank">
-    <img src="https://img.shields.io/badge/Probar-violet?style=for-the-badge&logo=rotaryinternational&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Probar">
+    <img src="https://img.shields.io/badge/Demo-violet?style=for-the-badge&logo=rotaryinternational&logoColor=white&color=E63946&labelColor=E63946" alt="Demo">
   </a>
   <a href="https://github.com/AlexRubenPumari/react-product-calculator" target="_blank">
-    <img src="https://img.shields.io/badge/Código-violet?style=for-the-badge&logo=github&logoColor=white&color=6f42c1&labelColor=6f42c1" alt="Código">
+    <img src="https://img.shields.io/badge/Código-violet?style=for-the-badge&logo=github&logoColor=white&color=4B5563&labelColor=4B5563" alt="Código">
   </a>
 </p>
     </td>
