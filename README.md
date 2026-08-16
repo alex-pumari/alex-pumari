@@ -18,7 +18,7 @@
 
 ## ¿Quién soy?
 
-Soy Desarrollador Full Stack, en formación como Licenciado en Gestión Tecnológica
+Soy Desarrollador Full Stack, en formación como Licenciado en Gestión Tecnológica.
 
 Mi interés por la programación comenzó de forma autodidacta desarrollando videojuegos, una etapa que fortaleció mi creatividad, mi capacidad para resolver problemas y mi forma de trabajar en equipo. A partir de esa experiencia, comencé a explorar cómo se construyen las aplicaciones y a dar el salto hacia el desarrollo web.
 
