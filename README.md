@@ -14,6 +14,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/alex-pumari/alex-pumari/master/cover.jpeg" />
 </div>
+<br>
 
 ## ¿Quién soy?
 
