@@ -4,9 +4,9 @@
     <a href="mailto:alexpumari0@gmail.com">
       <img src="https://img.shields.io/badge/Correo-orange?style=for-the-badge&logo=gmail&logoColor=white&color=E63946&labelColor=E63946" alt="Correo electrónico">
     </a>
-   <a href="https://www.linkedin.com/in/alex-pumari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=simpleicons&logoColor=white&color=0077b5&labelColor=0077b5" alt="LinkedIn">
-   </a>
+    <a href="https://www.linkedin.com/in/alex-pumari" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=infomaniak&logoColor=white&color=0077b5&labelColor=0077b5">
+    </a>
     <a href="http://alexpumaridev.com.ar/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-azulvioleta?style=for-the-badge&logo=firefox-browser&logoColor=white&color=800020&labelColor=800020" alt="Portafolio Web">
    </a>
