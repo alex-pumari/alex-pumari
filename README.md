@@ -12,7 +12,7 @@
    </a>
   </div>
   <br>
-  <img src="https://raw.githubusercontent.com/AlexRubenPumari/AlexRubenPumari/master/cover.gif" />
+  <img src="https://raw.githubusercontent.com/alex-pumari/alex-pumari/master/cover.jpeg" />
 </div>
 
 ## ¿Quién soy?
